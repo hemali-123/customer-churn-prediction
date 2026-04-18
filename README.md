@@ -1,3 +1,5 @@
+
+
 # Customer Churn Prediction
 
 ## 📌 Project Overview
@@ -13,3 +15,7 @@ Python, Pandas, Scikit-learn
 
 ## 🎯 Result
 Basic churn prediction model created.
+
+
+
+Developed by Hemali Kachhad
